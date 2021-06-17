@@ -1,8 +1,11 @@
 #include <stdio.h>
-#include <stdlib.h>
-
-int main()
+/**
+ * main - Entry point
+ *
+ * Return: Always 0 (success)
+ */
+int main(void)
 {
-	printf("Hello world\n");
-	return 0;
+	printf("Holberton School");
+	return (0);
 }
